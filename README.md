@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently a Phd candidate of theoretical physics (topological quantum matter & tensor network).
+- I'm currently a Phd candidate of theoretical physics.
